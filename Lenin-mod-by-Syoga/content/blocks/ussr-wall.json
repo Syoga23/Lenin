@@ -1,0 +1,12 @@
+{
+	"name": "Ussr",
+	"description": "A wall made of hammer and sickle.",
+	"type": "Wall",
+	"health": 19999,
+	"size": 2,
+	"requirements": [
+		{ "item": "copper", "amount": 1 }
+	],
+	"category": "defense",
+	"research": "copper-wall"
+}

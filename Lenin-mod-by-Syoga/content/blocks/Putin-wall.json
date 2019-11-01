@@ -1,0 +1,12 @@
+{
+	"name": "Putin",
+	"description": "A wall made of Putin. Everyone hate him.",
+	"type": "Wall",
+	"health": 1,
+	"size": 4,
+	"requirements": [
+		{ "item": "copper", "amount": 4000}
+	],
+	"category": "defense",
+	"research": "meltdown"
+}

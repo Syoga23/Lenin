@@ -1,0 +1,12 @@
+{
+	"name": "Stalin Wall",
+	"description": "A wall made of Stalin. Not particularly useful in our life.",
+	"type": "Wall",
+	"health": 19999,
+	"size": 3,
+	"requirements": [
+		{ "item": "copper", "amount": 1 }
+	],
+	"category": "defense",
+	"research": "copper-wall"
+}

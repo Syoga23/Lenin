@@ -1,0 +1,14 @@
+{
+	"name": "Russia",
+	"description": "A wall made of poor money. Aggressive to USA.",
+	"type": "Wall",
+	"health": 19999,
+	"size": 1,
+	"requirements": [
+		{ "item": "copper", "amount": 100},
+		{ "item": "metaglass", "amount": 100},
+		{ "item": "lead", "amount": 100}
+	],
+	"category": "defense",
+	"research": "meltdown"
+}
